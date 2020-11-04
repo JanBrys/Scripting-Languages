@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vs/
+Lab.sln
+Lab.vcxproj
+Lab.vcxproj.filters
+Lab.vcxproj.user
+x64/
